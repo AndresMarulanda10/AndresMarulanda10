@@ -26,9 +26,9 @@ I'm a software developer with 5 years of experience in various technologies. I s
 
 I'd love to connect with you! You can find me at:
 
-- [LinkedIn](https://www.linkedin.com/in/tunombre): Let's add our professional profiles!
-- [GitHub](https://github.com/tunombre): Explore more of my projects and contributions on GitHub.
-- [Twitter](https://twitter.com/tunombre): Follow me to receive updates and share ideas.
+- [LinkedIn](https://www.linkedin.com/in/carlos-andres-marulanda-rojas-9a2429230/?trk=public-profile-join-page): Let's add our professional profiles!
+- [GitHub](https://github.com/andresmarulanda10): Explore more of my projects and contributions on GitHub.
+- [Twitter](https://twitter.com/amrindustries_): Follow me to receive updates and share ideas.
 
 ## Let's talk! 📬
 
