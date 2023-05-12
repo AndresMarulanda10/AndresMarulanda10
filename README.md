@@ -1,28 +1,38 @@
-# 💫 About Me:
-👋 Hello there! I'm an IBM Fellow and active member of the Department of Economic Development. My passion and dedication for the world of IT have led me to continuously improve my skills and knowledge, and I have gained valuable experience working on innovative projects.<br><br>💻 With my expertise in programming languages, operating systems, and databases, I have successfully contributed to the development of various software solutions in different companies, such as Horizonte Legal, AMR Industries, Prinfer, CSI, Copynet, and Colorcopy. My professional cybersecurity certifications with IBM have also helped me keep up-to-date with the latest security protocols and measures.<br><br>🚀 My core values of excellence, quality, honesty, initiative, professionalism, discipline, responsibility, creativity, motivation, curiosity, and commitment have helped me succeed in my career as a software engineer. I am always eager to learn new techniques and skills to further improve my problem-solving and analysis skills.<br><br>🎉 I'm proud of my work on innovative projects such as the development of a quantum machine learning prediction algorithm, password encryption, and quantum search algorithms for password recovery services. I'm confident that my experience and expertise can be a valuable asset to any software project that comes my way.<br><br>Hope that helps you!
+# Hi, I'm Andres Marulanda! 👋
 
+I'm a software developer with 5 years of experience in various technologies. I specialize in Software Engineering, Big Data and Cybersecurity. My goal is to leverage my skills in web development, Artificial Intelligence, Deep Learning and Machine Learning to contribute to exciting projects and find challenging job opportunities.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrindustries_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-marulanda-rojas-9a2429230/) 
+## My Skills 💻
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=plastic&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=plastic&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndresMarulanda10&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndresMarulanda10&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresMarulanda10&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- **Languages:** Python, C#, React
+- **Frameworks:** Django, Next.js, Electron
+- **IA,BD y ML:** TensorFlow, Keras, PyTorch, Qiskit
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## Experience and Education 📚
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+- **IBM Quantum Scholar**: Scholarship from IBM to specialize in cybersecurity and Big Data, and learn about quantum computing and its application in fields such as artificial intelligence and cybersecurity.
 
----
-[![](https://visitcount.itsvg.in/api?id=AndresMarulanda10&icon=2&color=5)](https://visitcount.itsvg.in)
+- **Software Engineering**: I have worked on projects related to cybersecurity, artificial intelligence and data analysis. My experience includes the development of cybersecurity programs to prevent attacks and the management of large amounts of data using visualization and analysis techniques.
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/amarulanda27) 
+## Topics of Interest 💡
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **Quantum Computing**: Application of quantum computing in the development of algorithms and models for artificial intelligence and cybersecurity.
+
+- **Artificial intelligence**: Development of machine learning and deep learning models to solve complex problems in cybersecurity and data analytics.
+
+- **Cybersecurity**: Creation of solutions and programs to prevent attacks, protect data and ensure the security of systems and networks.
+
+## Contact and Social Media 🌐
+
+I'd love to connect with you! You can find me at:
+
+- [LinkedIn](https://www.linkedin.com/in/tunombre): Let's add our professional profiles!
+- [GitHub](https://github.com/tunombre): Explore more of my projects and contributions on GitHub.
+- [Twitter](https://twitter.com/tunombre): Follow me to receive updates and share ideas.
+
+## Let's talk! 📬
+
+If you are interested in collaborating on exciting projects or exploring job opportunities, feel free to contact me. I'm open to interesting discussions and collaborations.
+
+Thanks for visiting my profile and I look forward to the opportunity to work together! 😄
+
