@@ -56,7 +56,7 @@
 - 🌐 **Full Stack Development**: Proficient in end-to-end application development
 
 # 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-marulanda-rojas-9a2429230/)
 
 ---
 ![](https://komarev.com/ghpvc/?username=AndresMarulanda10&style=for-the-badge)
