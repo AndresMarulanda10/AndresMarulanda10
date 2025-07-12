@@ -10,7 +10,7 @@ My journey started in international commerce, but I fell in love with code and n
 **Languages:** Python, JavaScript, TypeScript, SQL  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Django, Microservices  
-**Cloud:** AWS, Docker, Kubernetes  
+**Cloud:** GCP, AWS, Docker, Kubernetes  
 **AI/ML:** TensorFlow, PyTorch, Qiskit (quantum computing)  
 **Security:** Cybersecurity, Kali Linux, Infrastructure Hardening  
 
